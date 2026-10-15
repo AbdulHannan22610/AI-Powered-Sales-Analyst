@@ -1,0 +1,21 @@
+date,product,category,quantity,unit_price,discount,region
+2026-10-01,Winter Coat,Clothing,3,12000,10,North
+2026-10-03,Smart TV,Electronics,1,95000,5,South
+2026-10-05,Gloves,Accessories,8,800,0,East
+2026-10-07,Laptop,Electronics,2,155000,5,West
+2026-10-09,Boots,Clothing,4,7500,15,North
+2026-10-11,Perfume,Accessories,6,4000,10,South
+2026-10-13,Sweater,Clothing,5,3500,5,East
+2026-10-15,Headphones,Electronics,3,8500,10,West
+2026-10-17,Muffler,Accessories,7,700,0,North
+2026-10-19,Gaming Console,Electronics,1,75000,0,South
+2026-10-21,Thermal Wear,Clothing,6,2000,10,East
+2026-10-23,Tripod,Accessories,2,6000,5,West
+2026-10-25,Hoodie,Clothing,4,4000,20,North
+2026-10-27,Camera,Electronics,1,85000,0,South
+2026-10-29,Socks,Clothing,12,300,0,East
+2026-11-01,Power Bank,Electronics,5,3500,5,West
+2026-11-03,Jacket,Clothing,3,9500,10,North
+2026-11-05,Watch,Accessories,4,6500,15,South
+2026-11-07,Earpods,Electronics,6,7000,8,East
+2026-11-09,Tracksuit,Clothing,3,5000,10,West

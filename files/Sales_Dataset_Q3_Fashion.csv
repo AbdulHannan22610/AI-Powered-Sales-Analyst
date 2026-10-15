@@ -1,0 +1,21 @@
+date,product,category,quantity,unit_price,discount,region
+7/1/2026,Kurti,Clothing,8,1200,10,North
+7/3/2026,Formal Shirt,Clothing,5,2500,5,South
+7/5/2026,Handbag,Accessories,3,8000,15,East
+7/7/2026,Sandals,Clothing,6,,10,West
+7/9/2026,Necklace,Accessories,4,3500,5,North
+7/11/2026,Track Suit,Clothing,3,,20,South
+7/13/2026,Earrings,Accessories,7,1500,0,East
+7/15/2026,Blazer,Clothing,2,,10,West
+7/17/2026,Laptop Bag,Accessories,4,5000,5,North
+7/19/2026,Shorts,Clothing,9,1000,15,South
+7/21/2026,Phone,Electronics,2,52000,5,East
+7/23/2026,Ring,Accessories,5,2500,0,West
+7/25/2026,Sweatshirt,Clothing,4,3200,10,North
+7/27/2026,Sunscreen,Accessories,6,800,5,South
+7/29/2026,Leggings,Clothing,7,1100,10,East
+7/31/2026,Tablet,Electronics,1,,5,West
+8/2/2026,Dupatta,Clothing,10,600,0,North
+8/4/2026,Wristband,Accessories,5,1200,5,South
+8/6/2026,Kurta,Clothing,6,1800,15,East
+8/8/2026,Tote Bag,Accessories,4,2200,10,West

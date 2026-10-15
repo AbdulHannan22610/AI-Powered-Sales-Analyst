@@ -1,0 +1,21 @@
+date,product,category,quantity,unit_price,discount,region
+2026-04-01,iPhone 15,Electronics,3,75000,5,North
+2026-04-03,Samsung TV,Electronics,1,120000,10,South
+2026-04-05,MacBook,Electronics,2,200000,0,East
+2026-04-07,AirPods,Electronics,6,20000,8,West
+2026-04-09,iPad,Electronics,4,45000,5,North
+2026-04-11,Gaming Chair,Accessories,2,25000,15,South
+2026-04-13,USB Hub,Electronics,10,2000,0,East
+2026-04-15,Webcam,Electronics,5,8000,10,West
+2026-04-17,Desk Lamp,Accessories,4,3000,5,North
+2026-04-19,SSD Drive,Electronics,3,15000,5,South
+2026-04-21,Polo Shirt,Clothing,5,1800,10,East
+2026-04-23,Smartband,Accessories,7,5000,10,West
+2026-04-25,Printer,Electronics,1,35000,0,North
+2026-04-27,Router,Electronics,2,12000,5,South
+2026-04-29,Graphic Card,Electronics,1,90000,0,East
+2026-05-01,Dress,Clothing,4,3500,20,West
+2026-05-03,Speaker,Electronics,3,18000,10,North
+2026-05-05,Power Bank,Electronics,8,4000,5,South
+2026-05-07,Wallet,Accessories,6,2000,0,East
+2026-05-09,Headset,Electronics,4,9000,10,West
